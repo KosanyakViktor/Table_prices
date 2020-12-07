@@ -29,7 +29,7 @@
   align-items: center;
   flex-direction: column;
   text-align: center;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 .price-card__title h2 {
   font-weight: 700;
@@ -124,7 +124,7 @@
   position: absolute;
   transform: rotate(45deg);
   top: 30px;
-  left: 263px;
+  left: 261px;
 }
 .banner p {
   font-weight: bold;
