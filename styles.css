@@ -6,7 +6,7 @@
 
 .prices {
   background-color: #141b1c;
-  padding: 115px 132px;
+  padding: 65px 132px;
   display: grid;
   grid-template-columns: minmax(auto, 380px) minmax(auto, 380px) minmax(auto, 380px);
   grid-gap: 18px;
@@ -46,6 +46,7 @@
   align-items: center;
 }
 .price-card__price p {
+  font-weight: 700;
   font-size: 55px;
   line-height: 67px;
   text-align: center;
